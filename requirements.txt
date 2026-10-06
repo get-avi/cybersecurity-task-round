@@ -1,0 +1,9 @@
+# File Integrity Monitor (FIM) Requirements
+# The core FIM engine leverages Python 3.9+ standard library modules:
+# - hashlib (cryptographic integrity)
+# - concurrent.futures (multi-threaded worker pool)
+# - argparse (CLI argument parser)
+# - json, pathlib, time, typing
+
+# Optional testing / development utilities:
+pytest>=7.0.0

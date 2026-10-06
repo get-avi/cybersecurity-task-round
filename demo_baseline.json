@@ -1,0 +1,32 @@
+{
+  "files": {
+    "app.py": {
+      "error": null,
+      "hash": "6e892d1743163753ee8c1c0211ef52334dddbd0e6eb205ae1e6068110bdd05c9",
+      "mtime": 1790959216.1033115,
+      "path": "/tmp/fim_production_demo/app.py",
+      "size": 52
+    },
+    "database.cfg": {
+      "error": null,
+      "hash": "aece1662ccc9bdc13b762856fc3b1520cdc6c4228a97b76b949a15c1a4700a41",
+      "mtime": 1790959216.1034448,
+      "path": "/tmp/fim_production_demo/database.cfg",
+      "size": 43
+    },
+    "index.html": {
+      "error": null,
+      "hash": "52548fe22e87542822ddf30d03967ece8b3f96adc9b06385ee50d43385659b47",
+      "mtime": 1790959216.103153,
+      "path": "/tmp/fim_production_demo/index.html",
+      "size": 55
+    }
+  },
+  "metadata": {
+    "algorithm": "sha256",
+    "generated_at": "2026-10-02T16:40:16.960013+00:00",
+    "target_directory": "/tmp/fim_production_demo",
+    "total_files": 3,
+    "version": "1.0"
+  }
+}
